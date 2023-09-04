@@ -1,4 +1,3 @@
-## PYF_STPGMI
 ## PYF and STPGMI
 The scripts for simulation of metabolism and interactions in a single Pyomo modelling framework.
 
